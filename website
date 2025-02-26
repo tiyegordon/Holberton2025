@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiye Gordon</title>
+</head>
+<body>
+
+    <img src="https://drive.google.com/file/d/1VjP_ZbTDgWVeWdDGp4vadN5XZzFILW1i/view?usp=sharing" alt="Tiye Gordon">
+
+    <h1><b>Tiye Gordon</b></h1>
+
+    <h2>Personal Mission</h2>
+    <p>
+        I am dedicated to building innovative, purpose-driven ventures that create value and drive sustainable growth. 
+        With a strategic mindset and a commitment to excellence, I leverage creativity, leadership, and operational 
+        efficiency to scale businesses, empower teams, and deliver impactful results.
+    </p>
+
+    <section>
+        <h2>Empowering Change: Making an Impact in My Community</h2>
+        <p>
+            An impactful opportunity in my community is bridging the gap in technology through representation and advocacy for women of color.
+        </p>
+        <div>
+            <p>
+                Despite the growing demand for tech talent, women of color remain underrepresented in fields like DevOps and software engineering. 
+                To address this, I am committed to advocating for diversity through initiatives like workshops and boot camps.
+            </p>
+        </div>
+        <div>
+            <p>
+                By fostering an inclusive environment and increasing representation, I can inspire the next generation of women in tech, 
+                providing them with the tools and support needed to thrive and create a more equitable future in technology.
+            </p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Projects and Ventures</h2>
+        <div>
+            <h3>My DevOps Journey Blog</h3>
+        </div>
+        <p>
+            In August 2025, I began a blog to document the projects I’ve worked on, with a focus on Cloud Engineering, AI, and Automation.
+            These projects span cloud environments like Azure and AWS and utilize technologies such as Docker, Containers, Python, and Infrastructure as Code.
+            I’ve really enjoyed contributing to the DevOps community through this blog.
+            As I continue my journey at Holberton Coding School, I'm excited to expand both my knowledge and the blog's content.
+        </p>
+        <p>
+            <a href="https://medium.com/@tiyeagordon1">Check out my blog here!</a>
+        </p>
+    </section>
+
+    <section>
+        <h2>Looking Towards the Future</h2>
+        <p>
+            My goal is to become a highly skilled DevOps Engineer, specializing in automation, cloud technologies, and infrastructure as code (IaC) 
+            to optimize software development and deployment processes.
+        </p>
+
+        <div>
+            <h3>Short-Term Goals: 100 Days</h3>
+            <p>
+                In the short term, before my enrollment in the Holberton June 1, 2025 cohort, I will focus on earning industry-recognized certifications 
+                such as the AWS Certified Cloud Practitioner and Terraform Associate (HashiCorp). Additionally, I will continue gaining hands-on experience 
+                with CI/CD pipelines, Docker, Kubernetes, and cloud automation.
+            </p>
+        </div>
+
+        <div>
+            <h3>Long-Term Goals: 3-5 Years</h3>
+            <p>
+                Over the next 3-5 years, I aim to advance into a Senior DevOps Engineer position, specializing in cloud platforms (AWS, Azure, GCP) and 
+                automation tools to increase efficiency and scalability. As I grow in my career, I will develop consulting expertise and begin offering 
+                freelance DevOps services, eventually launching my own DevOps consulting agency or cloud solutions business.
+            </p>
+            <p>
+                My long-term vision is to achieve financial freedom by leveraging my DevOps career to build multiple income streams, including high-paying 
+                full-time roles, consulting, and tech-related investments such as real estate, stocks, or SaaS businesses. By combining technical expertise, 
+                leadership, and entrepreneurship, I will create a sustainable, high-income career while building long-term wealth and impact in the tech industry.
+            </p>
+        </div>
+    </section>
+
+</body>
+</html>
